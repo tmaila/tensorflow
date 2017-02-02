@@ -13,3 +13,8 @@ node_modules
 *.pyc
 __pycache__
 *.swp
+/bin
+/include
+/lib
+/local
+pip-selfcheck.json
